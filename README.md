@@ -1,41 +1,28 @@
 <div align="center">
 
-<!-- Safe Header: Using standard Markdown for better compatibility -->
 # Omar Ashraf
 ### 🚀 IT Operations Specialist | Python Developer | Linux Enthusiast
 
 <br>
 
-<!-- Reliable Profile Stats -->
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
+<!-- One single reliable link for all icons -->
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 </div>
 
 <hr>
 
-### 👨‍💻 About Me
-I am a dedicated **IT Operations Specialist** with a strong passion for **Python Development** and **Linux systems**. I specialize in building efficient workflows and automating infrastructure.
+### 👨‍💻 Professional Summary
+I am a dedicated **IT Operations Specialist** focused on **Automation** and **System Stability**. With a background in **Python Development** and **Linux Administration**, I build reliable infrastructure solutions.
 
-- 🔭 **Currently working on**: Automating IT infrastructure and system monitoring.
-- 🌱 **Learning**: Advanced DevOps practices, Kubernetes, and Cloud Security.
-- 💬 **Ask me about**: Linux Administration, Python Scripting, and SQL Database Management.
-- ⚡ **Fun fact**: I believe every manual task is just a script waiting to be written! 🐧
-
-<hr>
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Programming** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
-| **OS & Infrastructure** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
-| **Databases** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
-| **Tools** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
+- 🔭 **Focus**: Infrastructure Automation & System Monitoring.
+- 🌱 **Learning**: Kubernetes & Cloud-Native Security.
+- 💬 **Ask me about**: Python Scripting, SQL, and Bash.
+- ⚡ **Fact**: I prefer the CLI for everything! 🐧
 
 <hr>
 
-### 📊 GitHub Activity
+### 📊 GitHub Insights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app" width="48%" />
   <img src="https://github-readme-stats.vercel.app" width="48%" />
@@ -43,10 +30,10 @@ I am a dedicated **IT Operations Specialist** with a strong passion for **Python
 
 <hr>
 
-### 📫 Let's Connect!
+### 📫 Connect with me
 <div align="center">
 
-<a href="https://linkedin.com"><img src="https://img.shields.io" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io" /></a>
+[![LinkedIn](https://img.shields.io)](https://linkedin.com)
+[![Email](https://img.shields.io)](mailto:your-email@example.com)
 
 </div>
