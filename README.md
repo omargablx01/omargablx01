@@ -1,6 +1,6 @@
 <div align="center">
 
-# Omar Ashraf
+# 0MaR AsHraF
 ### 🚀 IT Operations Specialist | Python Developer | Linux Enthusiast
 
 <br>
