@@ -1,7 +1,7 @@
 <div align="center">
 
 # 0MaR AsHraF
-### 🚀 IT Operations Specialist | Python Developer | Linux Enthusiast
+### 🚀 IT Operations Specialist | Python AutoMation | Linux Enthusiast
 
 <br>
 
