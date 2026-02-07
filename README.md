@@ -1,38 +1,57 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<!-- صورة ترحيبية احترافية -->
+<img src="https://capsule-render.vercel.app" width="100%""")/>>
 
-<h1>Hi, I'm Omar Ashraf 👋</h1>
-<h3>IT Operations Specialist | Python Developer | Linux Enthusiast</h3>
+### 🚀 IT Operations Specialist | Python Developer | Linux Enthusiast
 
-![Totals Hits](https://komarev.com)
-![Hits](https://hits.seeyoufarm.com)
+<!-- عداد المشاهدات وعداد الـ Hits بروابط مباشرة -->
+![Profile Views](https://komarev.com)
+![GitHub Last Commit](https://img.shields.io)
 
 </div>
 
 <hr>
 
+### 👨‍💻 About Me
+أهلاً بك! أنا **عمر أشرف**، متخصص في العمليات التقنية (IT Operations) وشغوف بلغة بايثون وعالم اللينكس. أركز على جعل الأنظمة تعمل بكفاءة وبشكل آلي.
+
+- 🔭 **أعمل حالياً على**: تطوير سكربتات Automation لتحسين كفاءة الأنظمة.
+- 🌱 **أتعلم حالياً**: تقنيات الـ DevOps و Docker بشكل أعمق.
+- 💬 **اسألني عن**: Bash Scripting, SQL Queries, and Python Development.
+- ⚡ **حقيقة ممتعة**: الـ Terminal هي بيتي الثاني! 🐧
+
+<hr>
+
 ### 🛠️ Tech Stack & Tools
+لقد قمت بإصلاح روابط الأيقونات لتظهر بشكل صحيح واحترافي:
 
-![Tools](https://img.shields.io)
-![Python](https://img.shields.io)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![SQL](https://img.shields.io)
-![Git](https://img.shields.io)
-![GitHub](https://img.shields.io)
-![Bash](https://img.shields.io)
-![Docker](https://img.shields.io)
-![VSCode](https://img.shields.io)
+| المجال | الأدوات واللغات |
+| :--- | :--- |
+| **Programming** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
+| **OS & Servers** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
+| **Databases** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
+| **DevOps & Tools** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
 
-```python
-class OmarAshraf:
-    def __init__(self):
-        self.role = "IT Operations Specialist"
-        self.languages = ["Python", "Bash", "SQL"]
-        self.os = ["Linux (Ubuntu/CentOS)", "Windows Server"]
-        self.version_control = "Git & GitHub"
-        self.focus = "Automation & System Stability"
+<hr>
 
-    def current_status(self):
-        return "Optimizing systems and writing clean code."
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app" width="48%" />
+  <img src="https://github-readme-stats.vercel.app" width="48%" />
+</div>
+
+<hr>
+
+### 📫 Connect with me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io)](https://linkedin.com)
+[![Gmail](https://img.shields.io)](mailto:your-email@example.com)
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com" width="30" /> 
+  <i>Keep Coding and Automating!</i>
+</p>
