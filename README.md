@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- صورة ترحيبية احترافية -->
+<!-- Dynamic Header Greeting -->
 <img src="https://capsule-render.vercel.app" width="100%""")/>>
 
 ### 🚀 IT Operations Specialist | Python Developer | Linux Enthusiast
 
-<!-- عداد المشاهدات وعداد الـ Hits بروابط مباشرة -->
-![Profile Views](https://komarev.com)
+<!-- Profile Stats Badges -->
+[![Profile Views](https://komarev.com)](https://github.com)
 ![GitHub Last Commit](https://img.shields.io)
 
 </div>
@@ -14,28 +14,52 @@
 <hr>
 
 ### 👨‍💻 About Me
-أهلاً بك! أنا **عمر أشرف**، متخصص في العمليات التقنية (IT Operations) وشغوف بلغة بايثون وعالم اللينكس. أركز على جعل الأنظمة تعمل بكفاءة وبشكل آلي.
+I am a dedicated **IT Operations Specialist** with a strong passion for **Python Development** and **Linux systems**. I specialize in building efficient workflows and automating infrastructure to ensure maximum system stability.
 
-- 🔭 **أعمل حالياً على**: تطوير سكربتات Automation لتحسين كفاءة الأنظمة.
-- 🌱 **أتعلم حالياً**: تقنيات الـ DevOps و Docker بشكل أعمق.
-- 💬 **اسألني عن**: Bash Scripting, SQL Queries, and Python Development.
-- ⚡ **حقيقة ممتعة**: الـ Terminal هي بيتي الثاني! 🐧
+- 🔭 **Currently working on**: Automating IT infrastructure and system monitoring.
+- 🌱 **Learning**: Advanced DevOps practices, Kubernetes, and Cloud Security.
+- 💬 **Ask me about**: Linux Administration, Python Scripting, and SQL Database Management.
+- ⚡ **Fun fact**: I believe there is no problem that a good Bash script can't solve! 🐧
 
 <hr>
 
 ### 🛠️ Tech Stack & Tools
-لقد قمت بإصلاح روابط الأيقونات لتظهر بشكل صحيح واحترافي:
 
-| المجال | الأدوات واللغات |
-| :--- | :--- |
-| **Programming** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
-| **OS & Servers** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
-| **Databases** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
-| **DevOps & Tools** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Programming</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io" />
+      <img src="https://img.shields.io" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><strong>OS & Infrastructure</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io" />
+      <img src="https://img.shields.io" />
+      <img src="https://img.shields.io" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><strong>Databases</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io" />
+      <img src="https://img.shields.io" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><strong>Version Control</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io" />
+      <img src="https://img.shields.io" />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app" width="48%" />
   <img src="https://github-readme-stats.vercel.app" width="48%" />
@@ -43,15 +67,15 @@
 
 <hr>
 
-### 📫 Connect with me
+### 📫 Let's Connect!
 <div align="center">
 
 [![LinkedIn](https://img.shields.io)](https://linkedin.com)
-[![Gmail](https://img.shields.io)](mailto:your-email@example.com)
+[![Email](https://img.shields.io)](mailto:your-email@example.com)
 
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com" width="30" /> 
-  <i>Keep Coding and Automating!</i>
+  <i>"Automate everything, document anything."</i> <br>
+  <img src="https://raw.githubusercontent.com" width="30" />
 </p>
