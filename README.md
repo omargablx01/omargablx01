@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm Omar Ashraf!
+# Hey <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm 0MaR AShraF!
 
 I am an **IT Generalist Engineer** at **Abdelaziz El-Sallab Group** 🏗️. I’ve mastered the art of systematic troubleshooting and infrastructure management. I thrive on solving complex technical puzzles and automating the boring stuff. 
 
