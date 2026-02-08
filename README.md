@@ -30,6 +30,7 @@ I have deep experience with **Odoo & Salesforce** ecosystem, and I'm passionate 
 <a href="https://www.salesforce.com" target="_blank"><img align="left" alt="Salesforce" height ="42px" src="https://www.vectorlogo.zone"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.bash.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="figma" height='42px'/> </a>
+<img width="28" height="28" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/external-github-with-cat-logo-an-online-community-for-software-development-logo-fresh-tal-revivo.png" alt="external-github-with-cat-logo-an-online-community-for-software-development-logo-fresh-tal-revivo"/>
 
 <br><br><br>
 
