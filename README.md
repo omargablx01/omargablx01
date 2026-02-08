@@ -29,9 +29,9 @@ I have deep experience with **Odoo & Salesforce** ecosystem, and I'm passionate 
   <img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com">
 </a>
 
-<a href="https://www.bash.org/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" height='42px'/>
-</a>
+<a href="https://www.bash.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" height='42px'/></a>
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 <a href="https://git-scm.com" target="_blank"> 
   <img align="left" src="https://raw.githubusercontent.com" alt="git" height='42px'/> 
