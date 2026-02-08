@@ -27,7 +27,7 @@ I have deep experience with **Odoo & Salesforce** ecosystem, and I'm passionate 
 <a href="https://www.cisco.com" target="_blank"><img align="left" alt="Cisco" height ="42px" src="https://raw.githubusercontent.com"></a>
 <a href="https://www.odoo.com" target="_blank"><img align="left" alt="Odoo" height ="42px" src="https://www.vectorlogo.zone"></a>
 <a href="https://www.salesforce.com" target="_blank"><img align="left" alt="Salesforce" height ="42px" src="https://www.vectorlogo.zone"></a>
-<a href="https://git-scm.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.bash.org" target="_blank"><img align="left" alt="Bash" height ="42px" src="https://raw.githubusercontent.com"></a>
 
 <br><br><br>
