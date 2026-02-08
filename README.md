@@ -21,16 +21,33 @@ I have deep experience with **Odoo & Salesforce** ecosystem, and I'm passionate 
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.linux.org" target="_blank"><img align="left" alt="Linux" height ="42px" src="[https://raw.githubusercontent.com](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg)"></a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg" alt="figma" height='42px'/> </a>
-<a href="https://ubuntu.com" target="_blank"><img align="left" alt="Ubuntu" height ="42px" src="https://raw.githubusercontent.com"></a>
-<a href="https://www.cisco.com" target="_blank"><img align="left" alt="Cisco" height ="42px" src="https://raw.githubusercontent.com"></a>
-<a href="https://www.odoo.com" target="_blank"><img align="left" alt="Odoo" height ="42px" src="https://www.vectorlogo.zone"></a>
-<a href="https://www.salesforce.com" target="_blank"><img align="left" alt="Salesforce" height ="42px" src="https://www.vectorlogo.zone"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.bash.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="figma" height='42px'/> </a>
-<img height="42px" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/external-github-with-cat-logo-an-online-community-for-software-development-logo-fresh-tal-revivo.png" alt="external-github-with-cat-logo-an-online-community-for-software-development-logo-fresh-tal-revivo"/>
+<a href="https://www.python.org" target="_blank"> 
+  <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com">
+</a>
+
+<a href="https://www.linux.org" target="_blank">
+  <img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com">
+</a>
+
+<a href="https://www.bash.org/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" height='42px'/>
+</a>
+
+<a href="https://git-scm.com" target="_blank"> 
+  <img align="left" src="https://raw.githubusercontent.com" alt="git" height='42px'/> 
+</a>
+
+<a href="https://www.cisco.com" target="_blank">
+  <img align="left" alt="Cisco" height ="42px" src="https://www.vectorlogo.zone">
+</a>
+
+<a href="https://www.odoo.com" target="_blank">
+  <img align="left" alt="Odoo" height ="42px" src="https://www.vectorlogo.zone">
+</a>
+
+<a href="https://www.salesforce.com" target="_blank">
+  <img align="left" alt="Salesforce" height ="42px" src="https://www.vectorlogo.zone">
+</a>
 
 <br><br><br>
 
