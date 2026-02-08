@@ -1,4 +1,5 @@
-## Hey 👋, I'm Omar Ashraf! <a href='https://www.linkedin.com'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com" height='18px'/></a>
+## Hey <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge), I'm Omar Ashraf!
 
 I am an **IT Generalist Engineer** at **Abdelaziz El-Sallab Group** 🏗️. I’ve mastered the art of systematic troubleshooting and infrastructure management. I thrive on solving complex technical puzzles and automating the boring stuff. 
 
