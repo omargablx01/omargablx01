@@ -1,8 +1,14 @@
-# Hey <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm 0MaR AShRaF!
+<div align="center">
 
-I am an **IT Generalist Engineer** at **Abdelaziz El-Sallab Group** 🏗️. I’ve mastered the art of systematic troubleshooting and infrastructure management. I thrive on solving complex technical puzzles and automating the boring stuff. 
+# Hey <img src="https://github.comsciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm 0MaR AShRaF!
 
-I have deep experience with **Odoo & Salesforce** ecosystem, and I'm passionate about building robust network architectures and Linux-based automation. 💻✨
+<a href='https://www.linkedin.com'><img src="https://raw.githubusercontent.com" height='22px'/></a>
+
+I am an **IT Generalist Engineer** at **Abdelaziz El-Sallab Group** 🏗️. I specialize in systematic troubleshooting, infrastructure management, and automating workflows. 
+
+With expertise in **Odoo**, **Salesforce**, and **Network Administration**, I focus on building efficient, scalable solutions using Python and Linux. 💻✨
+
+</div>
 
 <br/> <br/>
 
