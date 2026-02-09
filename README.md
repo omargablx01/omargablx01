@@ -36,6 +36,7 @@ With expertise in **Odoo**, **Salesforce**, and **Network Administration**, I fo
 </a>
 
 <a href="https://www.bash.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" height='42px'/></a>
+<a href="https://www.git.org/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/git/git-svgrepo-com.svg" alt="bash" height='42px'/></a>
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
