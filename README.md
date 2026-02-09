@@ -40,8 +40,5 @@ With expertise in **Odoo**, **Salesforce**, and **Network Administration**, I fo
 
 <br><br><br>
 
-### 📊 Github Stats
-<a href='https://github.com'>
-  <img src="https://github-readme-stats.vercel.app" alt="Stats Overview" />
-  <img src="https://github-readme-stats.vercel.app" alt="Most Used Languages" />
-</a>
+### 📊 Social 
+<a href="https://gmail.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/gmail/gmail.svg" alt="Gmail" height='42px'/></a>
