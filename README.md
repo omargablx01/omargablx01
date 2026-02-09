@@ -27,8 +27,9 @@ With expertise in **Odoo**, **Salesforce**, and **Network Administration**, I fo
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.python.org/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>
+<a href="https://python.org/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='42px'/></a>
+<a href="https://linux.org/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>
 <a href="https://debian.org/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/ubuntu/debian.svg" alt="Debain" height='42px'/></a>
 <a href="https://www.bash.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" height='42px'/></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/git/git-svgrepo-com.svg" alt="git" height='42px'/></a>
