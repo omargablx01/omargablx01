@@ -33,6 +33,7 @@ With expertise in **Odoo**, **Salesforce**, and **Network Administration**, I fo
 <a href="https://www.bash.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="bash" height='42px'/></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/git/git-svgrepo-com.svg" alt="git" height='42px'/></a>
 <a href="https://odoo.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/odoo/odoo.svg" alt="Odoo" height='42px'/></a>
+<a href="https://salesforce.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>
 
 <a href="https://www.cisco.com" target="_blank">
   <img align="left" alt="Cisco" height ="42px" src="https://www.vectorlogo.zone">
