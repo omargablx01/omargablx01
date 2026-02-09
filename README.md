@@ -36,10 +36,8 @@ With expertise in **Odoo**, **Salesforce**, and **Network Administration**, I fo
 <a href="https://github.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/github/github-color-svgrepo-com.svg" alt="Github" height='42px'/></a>
 <a href="https://odoo.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/odoo/odoo.svg" alt="Odoo" height='42px'/></a>
 <a href="https://salesforce.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>
+<a href="https://hackerrank.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>
 
-<a href="https://www.cisco.com" target="_blank">
-  <img align="left" alt="Cisco" height ="42px" src="https://www.vectorlogo.zone">
-</a>
 
 <a href="https://www.salesforce.com" target="_blank">
   <img align="left" alt="Salesforce" height ="42px" src="https://www.vectorlogo.zone">
