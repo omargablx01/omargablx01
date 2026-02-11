@@ -23,7 +23,7 @@ A **Versatile IT Professional** expert in technical maintenance, troubleshooting
 
 ### 🚀 IT Generalist | Systems Maintenance | Automation Enthusiast
 
-<p align="center">
+<div align="center">
 <a href="https://python.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='42px'/></a>
 <a href="https://linux.org/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>
@@ -34,7 +34,7 @@ A **Versatile IT Professional** expert in technical maintenance, troubleshooting
 <a href="https://odoo.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/odoo/odoo.svg" alt="Odoo" height='42px'/></a>
 <a href="https://salesforce.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>
 <a href="https://hackerrank.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>
-</p>
+</div>
 <br/> <br/>
 ---
 
