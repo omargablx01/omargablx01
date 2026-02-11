@@ -1,15 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Omar Ashraf <a href="https://www.gautamkrishnar.com/"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/hand/Hello_hand.gif" width="5%"></a>
+# Hi there, I'm Omar Ashraf <a href="https://github.com"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/hand/Hello_hand.gif" width="30px"></a>
 
 ### 🎯 IT Generalist | Systems Maintenance | Automation Scripting Enthusiast
 
-> ### I am an IT Generalist with extensive experience in both software and hardware. I focus on comprehensive maintenance of hardware, networks, and IP camera systems to ensure uninterrupted business continuity. I have extensive experience managing Windows servers and advanced troubleshooting skills across all versions of the Windows operating system. I utilize Python and Bash to streamline tasks, automate routine processes, and optimize system performance in Linux environments. Furthermore, I bridge the gap between technical support and business operations through my operational management of Odoo and Salesforce platforms, giving me a comprehensive set of technical skills.
+> I am an IT Generalist with extensive experience in both software and hardware. I focus on comprehensive maintenance of hardware, networks, and IP camera systems to ensure uninterrupted business continuity. I have extensive experience managing Windows servers and advanced troubleshooting skills across all versions of the Windows operating system. I utilize Python and Bash to streamline tasks, automate routine processes, and optimize system performance in Linux environments. Furthermore, I bridge the gap between technical support and business operations through my operational management of Odoo and Salesforce platforms, giving me a comprehensive set of technical skills.
+
 </div>
 
 ---
 
-### 🛠️ Technical
+### 🛠️ Technical Arsenal
 
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
@@ -32,9 +33,8 @@
 
 ### 🔨 Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" style="padding-right:10px;" />](https://python.org)
-<a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px' style="padding-right:10px;"/></a>&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='42px' style="padding-right:10px;"/></a>&nbsp;
+<a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='42px'/></a>&nbsp;
 <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>&nbsp;
 <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/ubuntu/debian.svg" alt="Debain" height='42px'/></a>&nbsp;
 <a href="https://www.bash.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height='42px'/></a>&nbsp;
@@ -42,13 +42,13 @@
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/github/github-color-svgrepo-com.svg" alt="Github" height='42px'/></a>&nbsp;
 <a href="https://odoo.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/odoo/odoo.svg" alt="Odoo" height='42px'/></a>&nbsp;
 <a href="https://salesforce.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>&nbsp;
-<a href="https://hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>&nbsp;
+<a href="https://hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>
 
 ---
 
-### 📊 Social 
+### 📊 Socials 
 
-<a href="https://gmail.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>
-<a href="https://linkedin.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='42px'/></a>
+<a href="mailto:your-email@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>&nbsp;
+<a href="https://linkedin.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='42px'/></a>
 
 </div>
