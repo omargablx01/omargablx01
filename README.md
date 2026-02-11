@@ -5,7 +5,7 @@ markdown
 
 ### 🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist
 
-[![Python](https://img.shields.io)](https://python.org)
+[![Python](https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg)](https://python.org)
 [![Linux](https://img.shields.io)](https://linux.org)
 [![Salesforce](https://img.shields.io)](https://salesforce.com)
 [![Odoo](https://img.shields.io)](https://odoo.com)
