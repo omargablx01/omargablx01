@@ -43,7 +43,6 @@
   <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/ubuntu/debian.svg" alt="Debain" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.bash.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/git/git-svgrepo-com.svg" alt="Git" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/github/github-color-svgrepo-com.svg" alt="Github" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erp-elsalab.odoo.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/odoo/odoo.svg" alt="Odoo" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://azizsallab.my.salesforce.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,8 +52,9 @@
 
 ### 📊 Connect with me
 <br>
-<a href="mailto:your-email@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='42px'/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com" target="_blank" align="center"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/cv/id-card-svgrepo-com.svg" alt="Cv" height='50px'/></a>
+<a href="mailto:your-email@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/github/github-color-svgrepo-com.svg" alt="Github" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/discord/discord.svg" alt="Discord" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
