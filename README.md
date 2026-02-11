@@ -7,9 +7,6 @@
 I am an **IT Generalist Engineer** at **Abdelaziz El-Sallab Group** 🏗️. I specialize in systematic troubleshooting, infrastructure management, and automating workflows. 
 
 With expertise in **Odoo**, **Salesforce**, and **Network Administration**, I focus on building efficient, scalable solutions using Python and Linux. 💻✨
-# Hi there, I'm [Your Name] 👋
-
-### 🚀 IT Generalist | Systems Maintenance | Automation Enthusiast
 
 A **Versatile IT Professional** expert in technical maintenance, troubleshooting, and system automation. I bridge the gap between physical hardware reliability and advanced software performance.
 
@@ -20,9 +17,11 @@ A **Versatile IT Professional** expert in technical maintenance, troubleshooting
 
 ---
 
-📫 **How to reach me:** [Your Email/LinkedIn Link]
+📫 **How to reach me:** <a href="https://linkedin.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='42px'/></a>
 
-# 👨‍💻 [Your Name] | IT Generalist & Automation Specialist
+# Hi there, I'm Omar Ashraf 👋
+
+### 🚀 IT Generalist | Systems Maintenance | Automation Enthusiast
 
 <p align="left">
   <img src="https://img.shields.io" />
