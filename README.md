@@ -4,8 +4,7 @@
 
 ### 🚀 IT Generalist | Systems Maintenance | Automation Enthusiast
 
-### 📝 Profile Summary
-> ### IT specialist with extensive experience in both software and hardware. I focus on comprehensive maintenance of hardware, networks, and IP camera systems to ensure uninterrupted business continuity. I have extensive experience managing Windows servers and advanced troubleshooting skills across all versions of the Windows operating system. I utilize Python and Bash to streamline tasks, automate routine processes, and optimize system performance in Linux environments. Furthermore, I bridge the gap between technical support and business operations through my practical management of Odoo and Salesforce platforms, giving me a comprehensive set of technical skills.
+> ### I am an IT Generalist with extensive experience in both software and hardware. I focus on comprehensive maintenance of hardware, networks, and IP camera systems to ensure uninterrupted business continuity. I have extensive experience managing Windows servers and advanced troubleshooting skills across all versions of the Windows operating system. I utilize Python and Bash to streamline tasks, automate routine processes, and optimize system performance in Linux environments. Furthermore, I bridge the gap between technical support and business operations through my operational management of Odoo and Salesforce platforms, giving me a comprehensive set of technical skills.
 </div>
 
 ---
