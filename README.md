@@ -50,19 +50,6 @@ I bridge the gap between physical infrastructure and business logic through deep
 
 </div>
 
-<br/> <br/>
-
-<img align="right" alt="GIF" src="https://github.com" width="360px"/>
-
-### 🧐 More About Me:
-- 🔭 &nbsp; Currently managing IT operations and **Odoo/Salesforce** workflows.
-- 🤝 &nbsp; Looking to collaborate on **Python Automation** & **Bash Scripting** projects.
-- 🌱 &nbsp; Constantly refining my skills in **Network Security** and **Cloud Infrastructure**.
-- 👨🏻‍💻 &nbsp; Most of my technical scripts and labs are on [Github](https://github.com)
-- 💬 &nbsp; Ask me about Networking, Linux administration, or ERP support.
-- 📫 &nbsp; Feel free to reach out for tech consultations on [LinkedIn](https://www.linkedin.com)
-- 📚 &nbsp; When I am off-duty, I explore the latest in Cybersecurity and Open Source tools.
-
 <br>
 
 ### 🔨 Languages and Tools:
