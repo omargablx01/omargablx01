@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm [Omar Ashraf][https://google.com] <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/hand/Hello_hand.gif" width="35px">
-[![View CV](https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/windows/windows.svg)](https://google.com)
+[![View CV](Omar Ashraf)](https://google.com)
 ### 🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist
 
 <a href="https://blogs.windows.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/windows/windows.svg" alt="Windows" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
