@@ -3,13 +3,13 @@ markdown
 
 # Hi there, I'm Omar Ashraf <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/hand/Hello_hand.gif" width="35px">
 
-### 🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist
+## 🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist
 
 <a href="https://blogs.windows.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/windows/windows.svg" alt="Windows" height='42px'/></a>
 <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>
 <a href="https://www.bash.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height='42px'/></a>
   
-> ## I am an IT Generalist with extensive experience in both software and hardware. I focus on comprehensive maintenance of hardware, networks, and IP camera systems to ensure uninterrupted business continuity. I have extensive experience managing Windows servers and advanced troubleshooting skills across all versions of the Windows operating system. I utilize Python and Bash to streamline tasks, automate routine processes, and optimize system performance in Linux environments. Furthermore, I bridge the gap between technical support and business operations through my operational management of Odoo and Salesforce platforms, giving me a comprehensive set of technical skills.
+> ### I am an IT Generalist with extensive experience in both software and hardware. I focus on comprehensive maintenance of hardware, networks, and IP camera systems to ensure uninterrupted business continuity. I have extensive experience managing Windows servers and advanced troubleshooting skills across all versions of the Windows operating system. I utilize Python and Bash to streamline tasks, automate routine processes, and optimize system performance in Linux environments. Furthermore, I bridge the gap between technical support and business operations through my operational management of Odoo and Salesforce platforms, giving me a comprehensive set of technical skills.
 
 </div>
 
