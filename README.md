@@ -35,7 +35,7 @@ A **Versatile IT Professional** expert in technical maintenance, troubleshooting
 <a href="https://salesforce.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>
 <a href="https://hackerrank.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>
 </p>
-
+<br/> <br/>
 ---
 
 ### 📝 Profile Summary
