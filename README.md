@@ -38,6 +38,50 @@ A **Versatile IT Professional** expert in technical maintenance, troubleshooting
 
 📫 **How to reach me:** [Your Email/LinkedIn Link]
 
+# 👨‍💻 [Your Name] | IT Generalist & Automation Specialist
+
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+---
+
+### 📝 Profile Summary
+A **Versatile IT Professional** expert in technical maintenance, troubleshooting, and system automation. I specialize in maintaining **IT hardware and networks** while utilizing **Python and Bash** to streamline workflows and manage **Linux** systems effectively. 
+
+I bridge the gap between physical infrastructure and business logic through deep experience in administering **Salesforce CRM** and **Odoo ERP**, combining technical "boots-on-the-ground" expertise with digital operational excellence.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| **Domain** | **Skills & Tools** |
+| :--- | :--- |
+| **🔧 Hardware & Network** | Desktop/Server Repair, Network Troubleshooting, IP Camera Deployment (CCTV) |
+| **🤖 Automation** | Task Automation (Python), Shell Scripting (Bash), Cron Jobs |
+| **🐧 System Admin** | Linux Distribution Management, System Health Monitoring, Security Maintenance |
+| **📊 Business Systems** | Salesforce CRM Administration, Odoo ERP Functional Support |
+
+---
+
+### 🚀 Key Focus Areas
+- ⚡ **Optimization:** Reducing manual tasks through scripting.
+- 🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.
+- 📈 **Integration:** Aligning ERP systems (Odoo/Salesforce) with business requirements.
+
+---
+
+### 🤝 Connect with me
+[![LinkedIn](https://img.shields.io)](YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io)](mailto:your-email@example.com)
+
+---
+*“Automating the boring stuff to focus on solving the big problems.”*
+
 </div>
 
 <br/> <br/>
