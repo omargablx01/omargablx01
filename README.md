@@ -1,6 +1,5 @@
 <div align="center">
-
-# Hi <img src="https://github.com" width="29px"> I'm 0MaR AShRaF!
+" width="29px"> I'm 0MaR AShRaF!
 
 ### 🚀 IT Operations & Automation Specialist
 **Versatile IT Professional expert in hardware maintenance, troubleshooting, and system automation.**
@@ -10,7 +9,7 @@
 ### 📝 Profile Summary
 I am an IT Generalist who believes that technical support should be proactive, not just reactive. With a hands-on background in maintaining **IT hardware, network connectivity, and IP surveillance systems**, I ensure the physical layer of a business is always stable. 
 
-What sets me apart is my ability to bridge the gap between hardware and software. I leverage **Python and Bash scripting** to automate manual workflows and manage **Linux** environments efficiently. Furthermore, I bring deep functional expertise in administering **[Salesforce CRM](https://www.salesforce.com/)** and **[Odoo ERP](https://www.odoo.com/)**, ensuring that business systems and physical devices work in perfect harmony.
+What sets me apart is my ability to bridge the gap between hardware and software. I leverage **Python and Bash scripting** to automate manual workflows and manage **Linux** environments efficiently. Furthermore, I bring deep functional expertise in administering **[Salesforce CRM](https://www.salesforce.com)** and **[Odoo ERP](https://www.odoo.com)**, ensuring that business systems and physical devices work in perfect harmony.
 
 ---
 
@@ -19,10 +18,23 @@ What sets me apart is my ability to bridge the gap between hardware and software
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
 | **🔧 Hardware & Ops** | Comprehensive Maintenance, Device Troubleshooting, IP Surveillance (CCTV) |
-| **🤖 Automation** | Workflow Automation (Python), Shell Scripting (Bash), Cron Jobs |
+| **🤖 Automation** | Workflow Automation (Python), Shell Scripting (Bash), **Cron Jobs** |
 | **🐧 System Admin** | Linux System Management, Health Monitoring, Security Maintenance |
 | **📊 Business Systems** | Salesforce CRM Administration, Odoo ERP Functional Support |
 
+---
+
+### 🔨 Languages and Tools
+
+<p align="center">
+  <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com" alt="Python" height='45px'/></a>
+  <a href="https://www.bash.org" target="_blank"><img src="https://raw.githubusercontent.com" alt="Bash" height='45px'/></a>
+  <a href="https://linux.org" target="_blank"><img src="https://raw.githubusercontent.com" alt="Linux" height='45px'/></a>
+  <a href="https://debian.org" target="_blank"><img src="https://raw.githubusercontent.com" alt="Debain" height='45px'/></a>
+  <a href="https://odoo.com" target="_blank"><img src="https://raw.githubusercontent.com" alt="Odoo" height='45px'/></a>
+  <a href="https://salesforce.com" target="_blank"><img src="https://raw.githubusercontent.com" alt="Salesforce" height='45px'/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com" alt="Git" height='45px'/></a>
+  <a href="
 ---
 
 ### 🚀 Key Focus Areas
