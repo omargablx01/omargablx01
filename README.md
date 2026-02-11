@@ -44,4 +44,4 @@
 
 ### 📊 Social 
 <a href="https://gmail.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>
-<a href="https://linkedin.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='42px'/></a>
+<a href="https://linkedin.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='42px'/></a>
