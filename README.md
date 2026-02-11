@@ -19,9 +19,10 @@
 ---
 
 ### 📝 Profile Summary
-A **Versatile IT Professional** expert in technical maintenance, troubleshooting, and system automation. I specialize in maintaining **IT hardware and networks** while utilizing **Python and Bash** to streamline workflows and manage **Linux** systems effectively. 
+A **Versatile IT Professional** expert in technical maintenance, troubleshooting, and system automation. I specialize in the hands-on maintenance of **IT hardware, IP camera systems, and network connectivity**, utilizing **Python and Bash** to automate routine tasks and manage **Linux** environments with high efficiency.
 
-I bridge the gap between physical infrastructure and business logic through deep experience in administering **Salesforce CRM** and **Odoo ERP**, combining technical "boots-on-the-ground" expertise with digital operational excellence.
+I bridge the gap between **hardware operations** and business logic through deep experience in administering **[Salesforce CRM](https://www.salesforce.com)** and **[Odoo ERP](https://www.odoo.com)**, combining "boots-on-the-ground" technical expertise with digital operational excellence.
+
 
 ---
 
