@@ -48,15 +48,6 @@ I bridge the gap between physical infrastructure and business logic through deep
 | **🤖 Automation** | Task Automation (Python), Shell Scripting (Bash), Cron Jobs |
 | **🐧 System Admin** | Linux Distribution Management, System Health Monitoring, Security Maintenance |
 | **📊 Business Systems** | Salesforce CRM Administration, Odoo ERP Functional Support |
-### 🛠️ Tech Stack & Tools
-
-| Category | Skills |
-| :--- | :--- |
-| **Scripting & Logic** | ![Python](https://img.shields.io) ![Bash](https://img.shields.io) |
-| **OS & Systems** | ![Linux](https://img.shields.io) ![Ubuntu](https://img.shields.io) |
-| **Business Systems** | ![Salesforce](https://img.shields.io) ![Odoo](https://img.shields.io) |
-| **Hardware/Net** | Networking (TCP/IP), IP Cameras, Hardware Troubleshooting |
----
 
 ### 🚀 Key Focus Areas
 - ⚡ **Optimization:** Reducing manual tasks through scripting.
