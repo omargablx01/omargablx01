@@ -7,6 +7,36 @@
 I am an **IT Generalist Engineer** at **Abdelaziz El-Sallab Group** 🏗️. I specialize in systematic troubleshooting, infrastructure management, and automating workflows. 
 
 With expertise in **Odoo**, **Salesforce**, and **Network Administration**, I focus on building efficient, scalable solutions using Python and Linux. 💻✨
+# Hi there, I'm [Your Name] 👋
+
+### 🚀 IT Generalist | Systems Maintenance | Automation Enthusiast
+
+A **Versatile IT Professional** expert in technical maintenance, troubleshooting, and system automation. I bridge the gap between physical hardware reliability and advanced software performance.
+
+- 🛠️ **Maintenance:** Expert in IT hardware, networking, and IP camera systems.
+- ⚙️ **Automation:** Utilizing **Python** and **Bash** to streamline repetitive workflows and optimize tasks.
+- 🐧 **Systems:** Proficient in **Linux** environment management and system administration.
+- 💼 **Business Logic:** Experienced in administering **[Salesforce CRM](https://www.salesforce.com)** and **[Odoo ERP](https://www.odoo.com)**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Scripting & Logic** | ![Python](https://img.shields.io) ![Bash](https://img.shields.io) |
+| **OS & Systems** | ![Linux](https://img.shields.io) ![Ubuntu](https://img.shields.io) |
+| **Business Systems** | ![Salesforce](https://img.shields.io) ![Odoo](https://img.shields.io) |
+| **Hardware/Net** | Networking (TCP/IP), IP Cameras, Hardware Troubleshooting |
+
+---
+
+### 📈 What I'm currently working on:
+- 🐍 Automating server health checks using **Python**.
+- ☁️ Enhancing **Odoo** workflows for better data reporting.
+- 🔒 Hardening **Linux** systems for secure office environments.
+
+📫 **How to reach me:** [Your Email/LinkedIn Link]
 
 </div>
 
