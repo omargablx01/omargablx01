@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Omar Ashraf][Cv] [![Google](https://google.com)][Cv] <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/hand/Hello_hand.gif" width="35px">
+# Hi there, I'm [Omar Ashraf][https://google.com] <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/hand/Hello_hand.gif" width="35px">
 
 ### 🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist
 
