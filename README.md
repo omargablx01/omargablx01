@@ -1,25 +1,5 @@
-<div align="center">
 
-# Hey <img src="https://github.comsciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm 0MaR AShRaF!
-
-<a href='https://www.linkedin.com'><img src="https://raw.githubusercontent.com" height='22px'/></a>
-
-I am an **IT Generalist Engineer** at **Abdelaziz El-Sallab Group** 🏗️. I specialize in systematic troubleshooting, infrastructure management, and automating workflows. 
-
-With expertise in **Odoo**, **Salesforce**, and **Network Administration**, I focus on building efficient, scalable solutions using Python and Linux. 💻✨
-
-A **Versatile IT Professional** expert in technical maintenance, troubleshooting, and system automation. I bridge the gap between physical hardware reliability and advanced software performance.
-
-- 🛠️ **Maintenance:** Expert in IT hardware, networking, and IP camera systems.
-- ⚙️ **Automation:** Utilizing **Python** and **Bash** to streamline repetitive workflows and optimize tasks.
-- 🐧 **Systems:** Proficient in **Linux** environment management and system administration.
-- 💼 **Business Logic:** Experienced in administering **[Salesforce CRM](https://www.salesforce.com)** and **[Odoo ERP](https://www.odoo.com)**.
-
----
-
-📫 **How to reach me:** <a href="https://linkedin.com/" target="_blank"><img align="left" src="https://github.com/omargablx01/ICONS/blob/main/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='42px'/></a>
-
-# Hi there, I'm Omar Ashraf 👋
+# Hi <img src="https://github.comsciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm 0MaR AShRaF!
 
 ### 🚀 IT Generalist | Systems Maintenance | Automation Enthusiast
 
