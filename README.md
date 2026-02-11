@@ -9,7 +9,6 @@ markdown
 <a href="https://www.bash.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height='42px'/></a>
  <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/git/git-svgrepo-com.svg" alt="Git" height='42px'/></a>
-<a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>
 <a href="https://odoo.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/odoo/odoo.svg" alt="Odoo" height='42px'/></a>
   <a href="https://salesforce.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>
   
