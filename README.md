@@ -40,12 +40,6 @@ I bridge the gap between physical infrastructure and business logic through deep
 - 📈 **Integration:** Aligning ERP systems (Odoo/Salesforce) with business requirements.
 
 ---
-
-### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io)](YOUR_LINKEDIN_URL_HERE)
-[![Email](https://img.shields.io)](mailto:your-email@example.com)
-
----
 *“Automating the boring stuff to focus on solving the big problems.”*
 
 </div>
