@@ -45,7 +45,9 @@
 <a href="https://odoo.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/odoo/odoo.svg" alt="Odoo" height='42px'/></a>&nbsp;
 <a href="https://salesforce.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>&nbsp;
 <a href="https://hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>&nbsp;
+
 ---
+
 ### 📊 Social 
 
 <a href="https://gmail.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>
