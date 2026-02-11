@@ -5,7 +5,7 @@
 ### 🚀 IT Generalist | Systems Maintenance | Automation Enthusiast
 
 ### 📝 Profile Summary
-> ### As an IT professional, I believe that technical support should be proactive, not reactive. With extensive experience in IT hardware maintenance, network connectivity, and IP monitoring systems, I ensure the stability of a company's physical infrastructure. My strength lies in my ability to seamlessly integrate hardware and software. I utilize Python and Bash programming languages ​​to automate manual processes and efficiently manage Linux environments. Furthermore, I possess deep functional experience in managing CRM (Salesforce CRM) and ERP (Odoo ERP) systems, guaranteeing the smooth operation of both business systems and physical devices.
+> ### IT specialist with extensive experience in both software and hardware. I focus on comprehensive maintenance of hardware, networks, and IP camera systems to ensure uninterrupted business continuity. I have extensive experience managing Windows servers and advanced troubleshooting skills across all versions of the Windows operating system. I utilize Python and Bash to streamline tasks, automate routine processes, and optimize system performance in Linux environments. Furthermore, I bridge the gap between technical support and business operations through my practical management of Odoo and Salesforce platforms, giving me a comprehensive set of technical skills.
 > 
 </div>
 
