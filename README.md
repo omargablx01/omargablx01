@@ -19,7 +19,7 @@
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
 | **🔧 Hardware & Network** | Desktop/Server Repair, Network Troubleshooting, IP Camera Deployment (CCTV) |
-| **🤖 Automation** | Task Automation (Python), Shell Scripting (Bash), **[Cron Jobs](https://www.gnu.org)** |
+| **🤖 Automation** | Task Automation (Python), Shell Scripting (Bash) |
 | **🐧 System Admin** | **[Linux](https://linux.org)** Management, Health Monitoring, Security Maintenance |
 | **📊 Business Systems** | **[Salesforce CRM](https://salesforce.com)** Admin, **[Odoo ERP](https://odoo.com)** Functional Support |
 
