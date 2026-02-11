@@ -24,19 +24,6 @@ What sets me apart is my ability to bridge the gap between hardware and software
 
 ---
 
-### 🔨 Languages and Tools
-
-<p align="center">
-  <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com" alt="Python" height='45px'/></a>
-  <a href="https://www.bash.org" target="_blank"><img src="https://raw.githubusercontent.com" alt="Bash" height='45px'/></a>
-  <a href="https://linux.org" target="_blank"><img src="https://raw.githubusercontent.com" alt="Linux" height='45px'/></a>
-  <a href="https://debian.org" target="_blank"><img src="https://raw.githubusercontent.com" alt="Debain" height='45px'/></a>
-  <a href="https://odoo.com" target="_blank"><img src="https://raw.githubusercontent.com" alt="Odoo" height='45px'/></a>
-  <a href="https://salesforce.com" target="_blank"><img src="https://raw.githubusercontent.com" alt="Salesforce" height='45px'/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com" alt="Git" height='45px'/></a>
-  <a href="
----
-
 ### 🚀 Key Focus Areas
 **⚡ Optimization:** Reducing manual tasks through scripting.  
 **🛠️ Reliability:** Ensuring 99.9% uptime for hardware and office networks.  
@@ -49,16 +36,16 @@ What sets me apart is my ability to bridge the gap between hardware and software
 ### 🔨 Languages and Tools
 
 <p align="center">
-  <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='45px'/></a>
-  <a href="https://www.bash.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height='45px'/></a>
-  <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='45px'/></a>
-  <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/ubuntu/debian.svg" alt="Debain" height='45px'/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='45px'/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/git/git-svgrepo-com.svg" alt="Git" height='45px'/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/github/github-color-svgrepo-com.svg" alt="Github" height='45px'/></a>
-  <a href="https://odoo.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/odoo/odoo.svg" alt="Odoo" height='45px'/></a>
-  <a href="https://salesforce.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='45px'/></a>
-  <a href="https://hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='45px'/></a>
+  <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='45px'/></a>&nbsp;
+  <a href="https://www.bash.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height='45px'/></a>&nbsp;
+  <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='45px'/></a>&nbsp;
+  <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/ubuntu/debian.svg" alt="Debain" height='45px'/></a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='45px'/></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/git/git-svgrepo-com.svg" alt="Git" height='45px'/></a>&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/github/github-color-svgrepo-com.svg" alt="Github" height='45px'/></a>&nbsp;
+  <a href="https://odoo.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/odoo/odoo.svg" alt="Odoo" height='45px'/></a>&nbsp;
+  <a href="https://salesforce.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='45px'/></a>&nbsp;
+  <a href="https://hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='45px'/></a>&nbsp;
 </p>
 
 ---
