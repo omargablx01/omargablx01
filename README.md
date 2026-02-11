@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello I'm Omar Ashraf <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hello I'm Omar Ashraf <a href="https://www.gautamkrishnar.com/"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/hand/Hello_hand.gif" width="5%"></a>
 
 ### 🚀 IT Generalist | Systems Maintenance | Automation Enthusiast
 
