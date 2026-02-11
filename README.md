@@ -1,5 +1,5 @@
 <div align="center">
-" width="29px"> I'm 0MaR AShRaF!
+I'm 0MaR AShRaF!
 
 ### 🚀 IT Operations & Automation Specialist
 **Versatile IT Professional expert in hardware maintenance, troubleshooting, and system automation.**
