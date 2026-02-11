@@ -1,7 +1,9 @@
 <div align="center">
 
-# Hi there I'm 0MaR AShRaF! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
->
+# Hi there I'm Omar Ashraf <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
+> .
+
 ### 🚀 IT Generalist | Systems Maintenance | Automation Enthusiast
 
 ### 📝 Profile Summary
