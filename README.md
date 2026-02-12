@@ -1,5 +1,5 @@
-<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Thin+100&size=26&duration=3000&pause=500&color=209C1A&center=true&vCenter=true&width=435&lines=print(%22Hello+!%22);print(%22Automation+~.%22)" alt="Typing SVG" /></a>
+<div align="center">
 # Hi there, I'm **[Omar Ashraf](https://google.com)** <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/hand/Hello_hand.gif" width="35px">
 ### 🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist
 
