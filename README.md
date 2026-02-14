@@ -38,6 +38,7 @@
 
 <div align="center">
 # 🔨 Languages and Tools
+<br>
 <p align="center">
   <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
