@@ -63,4 +63,6 @@
 <a href="https://web.telegram.org" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/ea8cbdba25a69de6af8e2e1840914a958f9c17cb/all_icons/telegram/telegram.svg" alt="Telegram" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
-<img src="https://raw.githubusercontent.com/omargablx01/ICONS/eb8881c24af2d4a59d987cd49544cd7256a128d4/all_icons/gif/snake/github-grid-snake-dark.svg">
+<div align="center">
+	<img src="https://raw.githubusercontent.com/omargablx01/ICONS/eb8881c24af2d4a59d987cd49544cd7256a128d4/all_icons/gif/snake/github-grid-snake-dark.svg">
+</div>
