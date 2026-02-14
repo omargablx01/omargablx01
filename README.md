@@ -54,7 +54,7 @@
 </p>
 
 <div align="center">
-	## 📊 Connect me
+## 📊 Connect me
 </div>
 <br>
 <p align="center">
