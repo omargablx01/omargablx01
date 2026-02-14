@@ -53,12 +53,12 @@
 </div>
 </p>
 <br>
-
-
 <p align="center">
 	
-	## 📊 Connect me
-	
+## 📊 Connect me
+
+</p>
+<p align="center">
 	<a href="mailto:your-email@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://facebook.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/facebook/facebook.svg" alt="Facebook" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://linkedin.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linkedin/linkedin-svgrepo-com.svg" alt="LinkedIn" height='46px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
