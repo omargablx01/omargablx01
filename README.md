@@ -14,8 +14,11 @@
 </div>
 
 ---
-
+<div align="center">
+	
 ## 🛠️ Technical Arsenal
+
+</div>
 
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
@@ -25,8 +28,12 @@
 | **📊 Business Systems** | **[Salesforce CRM](https://salesforce.com)** Admin, **[Odoo ERP](https://odoo.com)** Functional Support |
 
 ---
-
+<div align="center">
+	
 ## 🚀 Key Focus Areas
+
+</div>
+
 - ⚡ **Optimization:** Reducing manual tasks through scripting.
 > *“Automating the boring stuff to focus on solving the big problems.”*
 - 🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.
