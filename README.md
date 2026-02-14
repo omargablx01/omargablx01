@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm **[𝓞𝓶𝓪𝓻 𝓐𝓼𝓱𝓻𝓪ƒ](https://google.com)** <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/hand/Hello_hand.gif" width="35px">
+# Hi there, I'm **[𝓞𝓶𝓪𝓻 𝓐𝓼𝓱𝓻𝓪ƒ](https://google.com)** <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Thin+100&size=26&duration=3000&pause=500&color=209C1A&center=true&vCenter=true&width=435&lines=print(%22Hello+!%22);print(%22Automation+~.%22))](https://git.io/typing-svg)
 ### `🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist`
@@ -63,3 +63,4 @@
 <a href="https://web.telegram.org" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/ea8cbdba25a69de6af8e2e1840914a958f9c17cb/all_icons/telegram/telegram.svg" alt="Telegram" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
+<img src="https://raw.githubusercontent.com/omargablx01/ICONS/eb8881c24af2d4a59d987cd49544cd7256a128d4/all_icons/gif/snake/github-grid-snake-dark.svg">
