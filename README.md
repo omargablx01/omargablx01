@@ -33,6 +33,7 @@
 ## 🚀 Key Focus Areas
 
 </div>
+
 - ⚡ **Optimization:** Reducing manual tasks through scripting.
 > *“Automating the boring stuff to focus on solving the big problems.”*
 - 🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.
