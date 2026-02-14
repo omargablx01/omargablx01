@@ -52,8 +52,8 @@
 	<img src="https://raw.githubusercontent.com/omargablx01/ICONS/eb8881c24af2d4a59d987cd49544cd7256a128d4/all_icons/gif/snake/github-grid-snake-dark.svg">
 </div>
 </p>
-## 📊 Connect me
 <br>
+## 📊 Connect me
 <p align="center">
 	<a href="mailto:your-email@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/gmail/gmail-svgrepo-com.svg" alt="Gmail" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://facebook.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/facebook/facebook.svg" alt="Facebook" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
