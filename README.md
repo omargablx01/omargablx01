@@ -18,8 +18,6 @@
 	
 ## 🛠️ Technical Arsenal
 
-</div>
-
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
 | **🔧 Hardware & Network** | Desktop/Server Repair, Network Troubleshooting, IP Camera Deployment (CCTV) |
@@ -28,6 +26,8 @@
 | **📊 Business Systems** | **[Salesforce CRM](https://salesforce.com)** Admin, **[Odoo ERP](https://odoo.com)** Functional Support |
 
 ---
+</div>
+
 <div align="center">
 	
 ## 🚀 Key Focus Areas
