@@ -16,7 +16,7 @@
 ---
 <div align="center">
 	
-## 🛠️ Technical Arsenal
+## `🛠️ Technical Arsenal`
 
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
@@ -30,7 +30,7 @@
 
 <div align="center">
 	
-## 🚀 Key Focus Areas
+## `🚀 Key Focus Areas`
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 	
-## 🔨 Languages and Tools
+## `🔨 Languages and Tools`
 
 </div>
 
@@ -66,7 +66,7 @@
 <br>
 <div align="center">
 	
-## 📊 Connect me
+## `📊 Connect me`
 
 </div>
 <p align="center">
