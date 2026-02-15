@@ -63,7 +63,7 @@
 <br>
 <div align="center">
 	
-## `🔗 Connect with me`
+## `🌐 Reach me at`
 
 </div>
 <p align="center">
