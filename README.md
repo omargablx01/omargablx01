@@ -30,7 +30,7 @@
 
 <div align="center">
 	
-## `🚀 Key Focus Areas`
+## `🧩 Proficiency`
 
 </div>
 
