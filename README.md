@@ -45,7 +45,7 @@
 
 <div align="center">
 	
-## `🔨 Languages and Tools`
+## `💻 Languages and Tools`
 
 </div>
 
@@ -63,7 +63,7 @@
 <br>
 <div align="center">
 	
-## `📊 Connect me`
+## `🔗 Connect with me`
 
 </div>
 <p align="center">
