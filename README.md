@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm **[𝓞𝓶𝓪𝓻 𝓐𝓼𝓱𝓻𝓪ƒ](https://google.com)** <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
+# Hi there, I'm **[𝕆𝕞𝕒𝕣 𝔸𝕤𝕙𝕣𝕒𝕗](https://google.com)** <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=14AE13&center=true&vCenter=true&width=435&lines=%F0%9D%93%B9%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%BD(%22%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B5%F0%9D%93%B8+!%22);%F0%9D%93%B9%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%BD(%22%F0%9D%93%90%F0%9D%93%BE%F0%9D%93%BD%F0%9D%93%B8%F0%9D%93%B6%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B7+~.%22))](https://git.io/typing-svg)
 ## `🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist`
