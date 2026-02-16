@@ -2,7 +2,7 @@
 
 # Hi there, I'm **[𝑶𝒎𝒂𝒓 𝑨𝒔𝒉𝒓𝒂𝒇](https://google.com)** <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=14AE13&center=true&vCenter=true&width=435&lines=%F0%9D%93%B9%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%BD(%22%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B5%F0%9D%93%B8+!%22);%F0%9D%93%B9%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%BD(%22%F0%9D%93%90%F0%9D%93%BE%F0%9D%93%BD%F0%9D%93%B8%F0%9D%93%B6%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B7+~.%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=4000&pause=1000&color=1FB82C&center=true&vCenter=true&width=435&lines=%E1%B4%98%CA%80%C9%AA%C9%B4%E1%B4%9B(%22%CA%9C%E1%B4%87%CA%9F%CA%9F%E1%B4%8F+%E1%B4%A1%E1%B4%8F%CA%80%CA%9F%E1%B4%85!%22);%E1%B4%98%CA%80%C9%AA%C9%B4%E1%B4%9B(%22%C2%BB+%E1%B4%80%E1%B4%9C%E1%B4%9B%E1%B4%8F%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%8F%C9%B4+%C2%AB%22)+)](https://git.io/typing-svg)
 ## `🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist`
 
 # ᴘʀɪɴᴛ("ʜᴇʟʟᴏ ᴡᴏʀʟᴅ!")
