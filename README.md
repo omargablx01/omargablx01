@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=14AE13&center=true&vCenter=true&width=435&lines=%F0%9D%93%B9%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%BD(%22%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B5%F0%9D%93%B8+!%22);%F0%9D%93%B9%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%BD(%22%F0%9D%93%90%F0%9D%93%BE%F0%9D%93%BD%F0%9D%93%B8%F0%9D%93%B6%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B7+~.%22))](https://git.io/typing-svg)
 ## `🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist`
 
-# 𝚙𝚛𝚒𝚗𝚝("𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍!")   
-# 𝚙𝚛𝚒𝚗𝚝("𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 ✔")
+# ᴘʀɪɴᴛ("ʜᴇʟʟᴏ ᴡᴏʀʟᴅ!")
+# ᴘʀɪɴᴛ("»ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ«")
 
 <a href="https://blogs.windows.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/windows/windows.svg" alt="Windows" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
