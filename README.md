@@ -21,7 +21,7 @@
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
 | **🔧 Hardware & Network** | Desktop/Server Repair, Network Troubleshooting, IP Camera Deployment (CCTV) |
-| **<a><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/windows/windows.svg" alt="Windows" height='18px'/></a> Windows Power User** | **[Windows](https://blogs.windows.com)** OS Optimization, Advanced Troubleshooting, Shell Scripting, Registry Tweaking |
+| **<a><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/windows/windows.svg" alt="Windows" height='18px'/></a>&nbsp; Windows Specialist** | **[Windows](https://blogs.windows.com)** OS Optimization, Advanced Troubleshooting, Shell Scripting, Registry Tweaking |
 | **🤖 Automation** | Task Automation (Python), Shell Scripting (Bash) |
 | **🐧 System Admin** | **[Linux](https://linux.org)** Management, Health Monitoring, Security Maintenance |
 | **📊 Business Systems** | **[Salesforce CRM](https://salesforce.com)** Admin, **[Odoo ERP](https://odoo.com)** Functional Support |
