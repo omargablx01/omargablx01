@@ -6,7 +6,7 @@
 ## `🛡️ IT Generalist | 🖥️ Hybrid Systems Admin | 🤖 Automation Specialist`
 
 <a href="https://blogs.windows.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/windows/windows.svg" alt="Windows" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ntfsv0-0agx00/Python_Elzero" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.bash.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/bash/bash-icon-svgrepo-com.svg" alt="Bash" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 > ### I am an **IT Generalist** with extensive experience in both software and hardware. I focus on comprehensive maintenance of hardware, networks, and IP camera systems to ensure uninterrupted business continuity. I have extensive experience managing Windows servers and advanced troubleshooting skills across all versions of the Windows operating system. I utilize **Python** and **Bash** to streamline tasks, automate routine processes, and optimize system performance in **Linux** environments. Furthermore, I bridge the gap between technical support and business operations through my operational management of Odoo and Salesforce platforms, giving me a comprehensive set of technical skills.
@@ -51,7 +51,7 @@
 </div>
 
 <p align="center">
-  <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ntfsv0-0agx00/Limbo-Super_Hacker-" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/ubuntu/debian.svg" alt="Debain" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
