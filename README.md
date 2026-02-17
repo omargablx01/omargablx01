@@ -25,6 +25,7 @@
 | **🤖 Automation** | Task Automation (Python), Shell Scripting (Bash) |
 | **🐧 System Admin** | **[Linux](https://linux.org)** Management, Health Monitoring, Security Maintenance |
 | **📊 Business Systems** | **[Salesforce CRM](https://salesforce.com)** Admin, **[Odoo ERP](https://odoo.com)** Functional Support |
+<img src="https://cdn.jsdelivr.net" width="18" height="18"> **Windows Pro** | OS Optimization, Advanced Troubleshooting, Registry Tweaking
 
 ---
 </div>
