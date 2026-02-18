@@ -22,7 +22,7 @@
 | :--- | :--- |
 | **⚙️ Systems Admin:** | Advanced Windows Server management, Registry optimization, and Linux (Debian/Ubuntu) health monitoring. |
 | **🤖 Automation** | Developing Python/Bash scripts to eliminate repetitive manual tasks and enhance system performance. |
-| **🌐 Network & Security:** | Full-cycle deployment of IP Camera systems (CCTV) and office network troubleshooting. |
+| **🌐 Network & Security:** | deployment of IP Camera systems, Networking troubleshooting. |
 | **📊 Business Logic:** | Functional support and operational management for **Odoo ERP** and **Salesforce CRM**. |
 
 ---
