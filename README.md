@@ -21,7 +21,6 @@
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
 | **⚙️ Systems Admin:** | Advanced Windows Server management, Registry optimization, and Linux (Debian/Ubuntu) health monitoring. |
-| **<a><img src="https://raw.githubusercontent.com/omargablx01/ICONS/45551b2c65456b820c1050c9784c7db2de69d212/all_icons/windows/windows.svg" alt="Windows" height='18px'/></a>&nbsp; Windows Specialist** | **[Windows](https://blogs.windows.com)** OS Optimization, Advanced Troubleshooting, Registry Tweaking |
 | **🤖 Automation** | Developing Python/Bash scripts to eliminate repetitive manual tasks and enhance system performance. |
 | **🌐 Network & Security:** | Full-cycle deployment of IP Camera systems (CCTV) and office network troubleshooting. |
 | **📊 Business Logic:** | Functional support and operational management for **Odoo ERP** and **Salesforce CRM**. |
