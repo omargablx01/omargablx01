@@ -28,7 +28,6 @@
 ---
 </div>
 
----
 <div align="center">
 	
 ## `🧩 Core Strengths`
