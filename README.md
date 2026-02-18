@@ -26,6 +26,12 @@
 | **🐧 System Admin** | **[Linux](https://linux.org)** Management, Health Monitoring, Security Maintenance |
 | **📊 Business Systems** | **[Salesforce CRM](https://salesforce.com)** Admin, **[Odoo ERP](https://odoo.com)** Functional Support |
 
+| 🚀 Quick Bio | 🛠️ Tech Focus |
+| :--- | :--- |
+| 🛡️ **Business Continuity** expert via Hardware/Network maintenance. | 🐍 **Python & Bash** for workflow automation. |
+| 🖥️ **Windows Server** & Advanced OS Troubleshooting. | 🐧 **Linux** System hardening & monitoring. |
+| 📊 **Odoo & Salesforce** functional management. | 🌐 **CCTV & IP Networking** deployment. |
+
 ---
 </div>
 
