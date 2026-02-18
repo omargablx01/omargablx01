@@ -24,6 +24,12 @@
 | 🖥️ **Windows Server** & Advanced OS Troubleshooting. | 🐧 **Linux** System hardening & monitoring. |
 | 📊 **Odoo & Salesforce** functional management. | 🌐 **CCTV & IP Networking** deployment. |
 
+## 🛠️ Specialized Expertise
+
+- **⚙️ Systems Admin:** Advanced Windows Server management, Registry optimization, and Linux (Debian/Ubuntu) health monitoring.
+- **🌐 Network & Security:** Full-cycle deployment of IP Camera systems (CCTV) and office network troubleshooting.
+- **🤖 Automation:** Developing Python/Bash scripts to eliminate repetitive manual tasks and enhance system performance.
+- **📊 Business Logic:** Functional support and operational management for **Odoo ERP** and **Salesforce CRM**.
 ---
 </div>
 
