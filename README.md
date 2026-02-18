@@ -29,7 +29,7 @@
 
 <div align="center">
 	
-## `🧩 Proficiency`
+## `🧩 Core Strengths`
 
 </div>
 
