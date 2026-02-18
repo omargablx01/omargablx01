@@ -27,18 +27,6 @@
 
 ---
 </div>
----
-
-### 🛡️ Professional Overview
-A results-driven **IT Generalist** bridging the gap between hardware infrastructure and software automation. I specialize in building resilient systems, streamlining enterprise operations via **Odoo/Salesforce**, and automating the mundane using **Python & Bash**.
-
----
-
-### 🛠️ Technical Ecosystem
-
-| **Core Infrastructure** | **Development & DevOps** | **Business Systems** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev" /> | <img src="https://skillicons.dev" /> | <img src="https://skillicons.dev" /> **+ Odoo/Salesforce** |
 
 ---
 <div align="center">
