@@ -35,9 +35,9 @@
 	
 ## `🧩 Core Strengths`
 
-- ⚡ **Optimization:** Reducing manual tasks through scripting.
-- 🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.
-- 📈 **Integration:** Aligning ERP systems with business requirements.
+-- ⚡ **Optimization:** Reducing manual tasks through scripting.
+-- 🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.
+-- 📈 **Integration:** Aligning ERP systems with business requirements.
 </div>
 
 ---
