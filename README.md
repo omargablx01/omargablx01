@@ -32,15 +32,19 @@
 </div>
 
 <div align="center">
-	
-## `🧩 Core Strengths`
-
--- ⚡ **Optimization:** Reducing manual tasks through scripting.
--- 🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.
--- 📈 **Integration:** Aligning ERP systems with business requirements.
-</div>
+| **🧩 Core Strengths** | **Skills & Tools** |
+| :--- | :--- |
+| **⚡ **Optimization:** Reducing manual tasks through scripting.** | 0
+| **🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.** | 1
+| **📈 **Integration:** Aligning ERP systems with business requirements.** | 1
+<!-- `🧩 Core Strengths`
+- ⚡ **Optimization:** Reducing manual tasks through scripting.
+- 🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.
+- 📈 **Integration:** Aligning ERP systems with business requirements. -->
 
 ---
+</div>
+
 
 <br>
 
