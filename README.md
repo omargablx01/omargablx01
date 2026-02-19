@@ -23,30 +23,26 @@
 
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
-| **⚙️ Systems Admin:** | Advanced Windows Server management, Registry optimization, and Linux (Debian/Ubuntu) health monitoring. |
+| **⚙️ Systems Admin:** | Advanced **Windows** management, Registry optimization, and Linux **(Debian/Ubuntu)** health monitoring. |
 | **🤖 Automation** | Developing **[𝑷𝒚𝒕𝒉𝒐𝒏](https://github.com/ntfsv0-0agx00/Python_Elzero)**/**[𝑩𝒂𝒔𝒉](https://github.com/NTFSv6/Bash)** scripts to eliminate repetitive manual tasks and enhance system performance. |
-| **🌐 Network & Security:** | deployment of IP Camera systems, Networking troubleshooting. |
+| **🌐 Network & Security:** | deployment of **IP Camera** systems, **Networking** troubleshooting. |
 | **📊 Business Logic:** | Functional support and operational management for **Odoo ERP** and **Salesforce CRM**. |
 
 ---
 </div>
 
 <div align="center">
-| **🧩 Core Strengths** | **Skills & Tools** |
-| :--- | :--- |
-| **⚡ **Optimization:** Reducing manual tasks through scripting.** | 0
-| **🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.** | 1
-| **📈 **Integration:** Aligning ERP systems with business requirements.** | 1
-<!-- `🧩 Core Strengths`
-- ⚡ **Optimization:** Reducing manual tasks through scripting.
-- 🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.
-- 📈 **Integration:** Aligning ERP systems with business requirements. -->
+
+## `🧩 Core Strengths`
+
+| -
+| :---
+| **⚡ **Optimization:** Reducing manual tasks through scripting.**
+| **🛠️ **Reliability:** Ensuring 99.9% uptime for hardware and office networks.**
+| **📈 **Integration:** Aligning ERP systems with business requirements.**
 
 ---
 </div>
-
-
-<br>
 
 <div align="center">
 	
@@ -64,7 +60,7 @@
   <a href="https://gitlab.com/omargablx01" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/bdb1dd7b6218194ffa5cd2137b067bec98bf3696/all_icons/gitlab/gitlab.svg" alt="Git" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erp-elsalab.odoo.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/odoo/odoo.svg" alt="Odoo" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://azizsallab.my.salesforce.com" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/salesforce/salesforce.svg" alt="Salesforce" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>
+  <a href="https://hackerrank.com/profile/o_ashraf_gabl" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/hackerrank/hackerrank.svg" alt="HackerRank" height='42px'/></a>
 </p>
 <br>
 <div align="center">
