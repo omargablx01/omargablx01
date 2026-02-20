@@ -25,7 +25,7 @@
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
 | **⚙️ Systems Admin:** | Advanced **Windows** management, Registry optimization, and Linux **(Debian/Ubuntu)** health monitoring. |
-| **🤖 Automation** | Developing **[𝑷𝒚𝒕𝒉𝒐𝒏](https://github.com/ntfsv0-0agx00/Python_Elzero)**/**[𝑩𝒂𝒔𝒉](https://github.com/NTFSv6/Bash)** scripts to eliminate repetitive manual tasks and enhance system performance. |
+| **🤖 Automation** | Developing **[𝑷𝒚𝒕𝒉𝒐𝒏](https://github.com/omargablx01/Python_Elzero)**/**[𝑩𝒂𝒔𝒉](https://github.com/NTFSv6/Bash)** scripts to eliminate repetitive manual tasks and enhance system performance. |
 | **🌐 Network & Security:** | deployment of **IP Camera** systems, **Networking** troubleshooting. |
 | **📊 Business Logic:** | Functional support and operational management for **Odoo ERP** and **Salesforce CRM**. |
 
