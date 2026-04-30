@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm **[𝑶𝒎𝒂𝒓 𝑨𝒔𝒉𝒓𝒂𝒇](https://google.com)** <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
+# Hi there, I'm **[𝑶𝒎𝒂𝒓 𝑨𝒔𝒉𝒓𝒂𝒇](https://LinkCV.com)** <img src="https://raw.githubusercontent.com/omargablx01/ICONS/refs/heads/main/all_icons/gif/hand/Hello_hand.gif" width="35px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=4000&pause=1000&color=1FB82C&center=true&vCenter=true&width=435&lines=%E1%B4%98%CA%80%C9%AA%C9%B4%E1%B4%9B(%22%CA%9C%E1%B4%87%CA%9F%CA%9F%E1%B4%8F+%E1%B4%A1%E1%B4%8F%CA%80%CA%9F%E1%B4%85!%22);%E1%B4%98%CA%80%C9%AA%C9%B4%E1%B4%9B(%22%C2%BB+%E1%B4%80%E1%B4%9C%E1%B4%9B%E1%B4%8F%E1%B4%8D%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%8F%C9%B4+%C2%AB%22)+)](https://git.io/typing-svg)
 
@@ -25,7 +25,7 @@
 | **Domain** | **Skills & Tools** |
 | :--- | :--- |
 | **⚙️ Systems Admin:** | Advanced **Windows** management, Registry optimization, and Linux **(Debian/Ubuntu)** health monitoring. |
-| **🤖 Automation** | Developing **[𝑷𝒚𝒕𝒉𝒐𝒏](https://github.com/omargablx01/Python_Elzero)**/**[𝑩𝒂𝒔𝒉](https://github.com/NTFSv6/Bash)** scripts to eliminate repetitive manual tasks and enhance system performance. |
+| **🤖 Automation** | Developing **[𝑷𝒚𝒕𝒉𝒐𝒏](https://github.com/omargablx01/Python_Elzero)**/**[𝑩𝒂𝒔𝒉](https://github.com/omargablx01/_BASH_)** scripts to eliminate repetitive manual tasks and enhance system performance. |
 | **🌐 Network & Security:** | deployment of **IP Camera** systems, **Networking** troubleshooting. |
 | **📊 Business Logic:** | Functional support and operational management for **Odoo ERP** and **Salesforce CRM**. |
 
@@ -35,7 +35,6 @@
 <div align="center">
 
 ## `🧩 Core Strengths`
-
 | -
 | :---
 | **⚡ **Optimization:** Reducing manual tasks through scripting.**
