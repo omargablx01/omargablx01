@@ -51,7 +51,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ntfsv0-0agx00/Limbo-Super_Hacker-" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.udemy.com/certificate/UC-6eeb0eec-d8c2-4f41-830d-0691434e39fe/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/python/python-svgrepo-com.svg" alt="Python" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/vscode/vscode-svgrepo-com.svg" alt="Vscode" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/linux/linux-tux-svgrepo-com.svg" alt="Linux" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/omargablx01/ICONS/a2b09457520d6198ba15b685ca94ee8f3b266593/all_icons/ubuntu/debian.svg" alt="Debain" height='42px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
